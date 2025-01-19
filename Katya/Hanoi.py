@@ -14,3 +14,5 @@ def move(n, start, finish):
 move(3, 1, 3)
 
 print("Testddd")
+v = 2065
+print(v)
