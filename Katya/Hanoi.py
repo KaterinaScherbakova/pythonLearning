@@ -12,7 +12,3 @@ def move(n, start, finish):
     print("Перенести диск", n, "со стержня", start, "на стержень", finish)
     move(n - 1, temp, finish) # с временного на целевой
 move(3, 1, 3)
-
-print("Testddd")
-v = 2065
-print(v)
