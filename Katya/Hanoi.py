@@ -13,4 +13,4 @@ def move(n, start, finish):
     move(n - 1, temp, finish) # с временного на целевой
 move(3, 1, 3)
 
-print("Test")
+print("Testddd")
